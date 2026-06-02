@@ -246,12 +246,6 @@ The Random Forest Regressor achieved an R² Score of **0.9797**, demonstrating e
 ### Aditi Singh
 
 M.Sc. Mathematics | Data Science Enthusiast | Machine Learning Learner
-
-#### Connect with Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
-
 ---
 
 ##  Support
