@@ -217,7 +217,6 @@ Car-Price-Prediction/
 ├── car data.csv
 ├── README.md
 ├── requirements.txt
-└── images/
 ```
 
 ---
